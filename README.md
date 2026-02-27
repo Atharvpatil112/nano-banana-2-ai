@@ -6,7 +6,14 @@
 </p>
 
 ---
-![Uploading image-nano-banana-2.jpeg…]()
+<p align="center">
+  <img src="https://github.com/nano-banana-2-ai/nano-banana-2-ai/blob/main/nano-banana-2.webp" 
+       alt="Nano Banana 2 AI - Next Gen Gemini 3.1 Flash Image Generator" 
+       title="Nano Banana 2 vs Pro Image Quality" 
+       width="800">
+  <br>
+  <em>Powered by Nano Banana 2 (Gemini 3.1 Flash) AI Technology</em>
+</p>
 
 ## 🌟 Access Nano Banana 2 Free
 Due to the massive viral success of the Feb 26 launch, our high-speed community mirror is currently live for public testing. You can access the interface by typing the following address into your browser:
