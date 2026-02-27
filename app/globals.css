@@ -1,0 +1,148 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* Changed to all black theme */
+  --background: #000000;
+  --foreground: #ffffff;
+  --card: #000000;
+  --card-foreground: #ffffff;
+  --popover: #000000;
+  --popover-foreground: #ffffff;
+  --primary: #ffffff;
+  --primary-foreground: #000000;
+  --secondary: #111111;
+  --secondary-foreground: #ffffff;
+  --muted: #0a0a0a;
+  --muted-foreground: #999999;
+  --accent: #1a1a1a;
+  --accent-foreground: #ffffff;
+  --destructive: #ffffff;
+  --destructive-foreground: #000000;
+  --border: #333333;
+  --input: #000000;
+  --ring: #ffffff;
+  /* Removed chart-* variables - chart component deleted */
+  --radius: 0rem;
+  /* Removed sidebar-* variables - sidebar component deleted */
+  --font-inter: "Inter", sans-serif;
+  --font-jetbrains-mono: "JetBrains Mono", monospace;
+}
+
+.dark {
+  /* Dark mode now same as light mode since everything is black */
+  --background: #000000;
+  --foreground: #ffffff;
+  --card: #000000;
+  --card-foreground: #ffffff;
+  --popover: #000000;
+  --popover-foreground: #ffffff;
+  --primary: #ffffff;
+  --primary-foreground: #000000;
+  --secondary: #111111;
+  --secondary-foreground: #ffffff;
+  --muted: #0a0a0a;
+  --muted-foreground: #999999;
+  --accent: #1a1a1a;
+  --accent-foreground: #ffffff;
+  --destructive: #ffffff;
+  --destructive-foreground: #000000;
+  --border: #333333;
+  --input: #000000;
+  --ring: #ffffff;
+  /* Removed chart-* variables - chart component deleted */
+  /* Removed sidebar-* variables - sidebar component deleted */
+  --font-inter: "Inter", sans-serif;
+  --font-jetbrains-mono: "JetBrains Mono", monospace;
+}
+
+@theme inline {
+  /* Updated font variables to use new Inter and JetBrains Mono fonts */
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-jetbrains-mono);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  /* Removed chart color mappings - chart component deleted */
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  /* Removed sidebar color mappings - sidebar component deleted */
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  
+  /* Force black background on html and body to prevent flashes */
+  html {
+    background-color: #000000 !important;
+  }
+  
+  body {
+    @apply bg-background text-foreground;
+    background-color: #000000 !important;
+  }
+  
+  /* Optimize background shader rendering with containment and hardware acceleration */
+  .shader-background {
+    contain: layout style paint;
+    will-change: transform;
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
+  
+  /* Enhanced smooth transitions for auth state changes */
+  .smooth-transition {
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+  }
+  
+  /* Prevent layout shift during auth transitions */
+  .auth-persist {
+    position: relative;
+    z-index: 1;
+  }
+  
+  /* Optimize rendering performance for dropdowns and overlays */
+  .dropdown-content,
+  .dialog-content,
+  .popover-content {
+    transform: translateZ(0);
+    will-change: transform, opacity;
+  }
+}
+
+/* Add CSS for preventing content jump during state changes */
+@layer utilities {
+  .prevent-shift {
+    min-height: 100vh;
+    position: relative;
+  }
+  
+  .gpu-accelerate {
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+  }
+}
